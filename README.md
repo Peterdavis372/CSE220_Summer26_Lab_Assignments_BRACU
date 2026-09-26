@@ -1,10 +1,12 @@
-Lab1: 2D_Matrix
-Lab2 Part1: Node_and_LinkedList
-Lab2 Part2: Doubly_LinkedList
-Lab3 Part1: Secondary_Data_Structures
-Lab3 Part2: Secondary_Data_Structures
-Lab4 Part1: Binary_Tree
-Lab4 Part2: Binary_Tree
-Lab5: Recursion
-Lab6: GRAPH
-Lab7: BFS_DFS
+## Lab Work
+
+- **Lab 1:** 2D Matrix
+- **Lab 2 (Part 1):** Node and Linked List
+- **Lab 2 (Part 2):** Doubly Linked List
+- **Lab 3 (Part 1):** Secondary Data Structures
+- **Lab 3 (Part 2):** Secondary Data Structures
+- **Lab 4 (Part 1):** Binary Tree
+- **Lab 4 (Part 2):** Binary Tree
+- **Lab 5:** Recursion
+- **Lab 6:** Graph
+- **Lab 7:** BFS & DFS
